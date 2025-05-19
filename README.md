@@ -1,4 +1,4 @@
-# Sprint10
+# Proyecto IT Academy
 # Análisis de la Evolución de la Criminalidad en Cataluña (2019-2023): Impacto del COVID-19 y Delitos Sexuales
 
 ## Abstract
